@@ -45,3 +45,20 @@ Tentang: akan mengarah ke halaman tentang<br>
   <img src="https://github.com/user-attachments/assets/99e93081-a209-48ac-8cf7-b00aa7dfc3c0" alt="Gambar c1 tampilan home" width="500">
 </div>
 
+### 2. Tampilan Identitas
+
+<p align="justify">
+Tampilan Identitas pada sistem anjungan pendaftaran mandiri dirancang untuk memberikan informasi terkait pasien secara jelas dan terorganisir, dengan elemen-elemen berikut:<br>
+a. Header:<br>
+Terletak di bagian atas halaman sebagai elemen utama yang tetap konsisten di setiap tampilan. Logo sistem tetap tampil minimalis, dengan nama sistem yang menggunakan tipografi sederhana dan profesional. Informasi hari dan tanggal ditampilkan secara realtime untuk memastikan keakuratan waktu selama proses berlangsung.<br>
+b. Bagian Utama:<br>
+Identitas Pasien: Menampilkan informasi pribadi pasien, seperti nama lengkap, nomor identitas, dan data lainnya yang relevan.<br>
+Kolom Histori Reservasi: Bagian ini memuat riwayat reservasi pasien, <br>
+c. Footer:<br>
+Tombol Kembali: Mengarahkan pengguna kembali ke tampilan home<br>
+Tombol Reservasi Baru: Membawa pengguna langsung ke halaman Poli Reservasi Baru untuk melakukan pendaftaran pada layanan atau poli tertentu.<br>
+</p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e17a6bd6-461a-4289-850c-b66bfbd36f36" alt="Gambar C2 tampilan identitas" width="500">
+</div>
