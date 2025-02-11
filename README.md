@@ -4,8 +4,10 @@ Sistem Anjungan Pendaftaran Mandiri dengan Teknik UI DESIGN menggunakan Framer
 
 ## 🚀 Latar Belakang
 
+<p align="justify">
 Di era modern seperti ini, teknologi sudah menjadi kebutuhan utama dalam segala aspek kehidupan masyarakat, sehingga sebagian besar dalam pelayanan kesehatan terjadi perubahan. Di satu sisi, rumah sakit sering berstatus sebagai garda depan dalam melakukan layanan kesehatan harus selalu upgrade dengan beragam perubahan-perubahan dalam menopang pelayanan di lembaganya. Beberapa isu sering ditemui pada pelayanan pendaftaran pasien yang masih panjang dan sulit, kemacetan antrean yang sangat lama, sering membuat pasien tidak merasa nyaman.<br>
 Nah, di sinilah letak peran sistem anjungan pendaftaran mandiri atau disingkat APM. Dengan teknologi ini, pasien bisa mendaftarkan diri secara mandiri melalui antarmuka yang dirancang agar mudah dipahami dan digunakan oleh semua kalangan. Tidak hanya mempercepat proses administrasi, sistem ini juga mengurangi beban kerja petugas pendaftaran sehingga mereka dapat lebih fokus pada tugas-tugas lain yang memerlukan perhatian khusus.<br>
+</p>
 
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/95717485/225231893-e59de44d-0d3e-4e79-971b-a4d494565a74.png" alt="Dicoding AWS">
