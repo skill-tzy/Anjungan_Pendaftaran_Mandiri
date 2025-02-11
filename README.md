@@ -1,8 +1,8 @@
 # Anjungan Pendaftaran Mandiri
 
-Sistem Anjungan Pendaftaran Mandiri dengan Teknik UI DESIGN menggunakan Framer 
-Download [PDF laporan Project](https://github.com/user-attachments/files/18745821/240103240_MUHAMMAD.ADZKIA.ADI.SYAHPUTRA_PROJECT.UAS.IMK.pdf)
-Lihat [Implementasi Project](https://anjunganpendaftaranmandiri.framer.website)
+Sistem Anjungan Pendaftaran Mandiri dengan Teknik UI DESIGN menggunakan Framer<br>
+Download [PDF laporan Project](https://github.com/user-attachments/files/18745821/240103240_MUHAMMAD.ADZKIA.ADI.SYAHPUTRA_PROJECT.UAS.IMK.pdf)<br>
+Lihat [Implementasi Project](https://anjunganpendaftaranmandiri.framer.website)<br>
 
 ## 🚀 Latar Belakang
 
