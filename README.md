@@ -21,22 +21,22 @@ Sistem Anjungan Pendaftaran Mandiri dengan Teknik UI DESIGN menggunakan Framer
 ### 1. Tampilan Home
 
 <p align="justify">
-Tampilan awal atau home dari sistem anjungan pendaftaran mandiri dirancang sederhana dan user-friendly, dengan elemen-elemen berikut:
-a. Header:
-Terletak di bagian atas halaman sebagai identitas utama sistem. Logo dirancang minimalis, sementara nama sistem ditampilkan dengan tipografi yang mudah dibaca untuk memberikan kesan profesional. Selain itu, header juga menampilkan informasi hari dan tanggal secara realtime yang diperbarui otomatis sesuai waktu pengguna.
-b. Bagian Main:
-Tombol Angka: Tombol numerik untuk memasukkan angka, biasanya digunakan untuk input nomor identitas pasien atau nomor antrian.
-Tombol Hapus Angka: Untuk menghapus angka terakhir yang dimasukkan.
-Tombol Bersihkan Angka: Untuk menghapus semua angka yang telah dimasukkan, memberikan opsi reset jika terjadi kesalahan input.
-Tombol Cari: Memproses input dan mengarahkan pengguna ke halaman hasil pencarian.(dalam implementasi kali ini klik Tombol Cari otomatis akan mengarah ke halaman identitas)
-c. Tombol Menu
-Informasi: akan mengarah ke halaman informasi
-Bahasa: akan mengarah ke halaman bahasa
-Jadwal Dokter: akan mengarah ke halaman jadwal dokter
-Feedback: akan mengarah ke halaman feedback
-d. Footer
-Bantuan: akan mengarah ke halaman bantuan
-Tentang: akan mengarah ke halaman tentang
+Tampilan awal atau home dari sistem anjungan pendaftaran mandiri dirancang sederhana dan user-friendly, dengan elemen-elemen berikut:<br>
+a. Header:<br>
+Terletak di bagian atas halaman sebagai identitas utama sistem. Logo dirancang minimalis, sementara nama sistem ditampilkan dengan tipografi yang mudah dibaca untuk memberikan kesan profesional. Selain itu, header juga menampilkan informasi hari dan tanggal secara realtime yang diperbarui otomatis sesuai waktu pengguna.<br>
+b. Bagian Main:<br>
+Tombol Angka: Tombol numerik untuk memasukkan angka, biasanya digunakan untuk input nomor identitas pasien atau nomor antrian.<br>
+Tombol Hapus Angka: Untuk menghapus angka terakhir yang dimasukkan.<br>
+Tombol Bersihkan Angka: Untuk menghapus semua angka yang telah dimasukkan, memberikan opsi reset jika terjadi kesalahan input.<br>
+Tombol Cari: Memproses input dan mengarahkan pengguna ke halaman hasil pencarian.(dalam implementasi kali ini klik Tombol Cari otomatis akan mengarah ke halaman identitas)<br>
+c. Tombol Menu<br>
+Informasi: akan mengarah ke halaman informasi<br>
+Bahasa: akan mengarah ke halaman bahasa<br>
+Jadwal Dokter: akan mengarah ke halaman jadwal dokter<br>
+Feedback: akan mengarah ke halaman feedback<br>
+d. Footer<br>
+Bantuan: akan mengarah ke halaman bantuan<br>
+Tentang: akan mengarah ke halaman tentang<br>
 </p>
 
 <div align="center">
