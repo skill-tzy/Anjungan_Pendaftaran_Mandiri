@@ -33,5 +33,5 @@ d. Footer<br>
 Bantuan: akan mengarah ke halaman bantuan<br>
 Tentang: akan mengarah ke halaman tentang<br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/99e93081-a209-48ac-8cf7-b00aa7dfc3c0" alt="Gambar c1 tampilan home">
+  <img src="https://github.com/user-attachments/assets/99e93081-a209-48ac-8cf7-b00aa7dfc3c0" alt="Gambar c1 tampilan home" width="300">
 </div>
